@@ -24,28 +24,28 @@ A simple and intuitive Todo List application built with HTML, Tailwind CSS, Java
 # Usage
 - Adding a Task:
 
-Enter the task description in the input field.
-Click the "Add" button to add the task to the list.
+  Enter the task description in the input field.
+  Click the "Add" button to add the task to the list.
 
 - Marking a Task as Finished/Unfinished:
 
-Click on the checkbox to toggle its status between finished and unfinished.
+  Click on the checkbox to toggle its status between finished and unfinished.
 
 - Editing a Task:
 
-Click the "Edit" button next to the task.
-Modify the task description in the input field that appears.
-Click the "Save" button to save the changes.
+  Click the "Edit" button next to the task.
+  Modify the task description in the input field that appears.
+  Click the "Save" button to save the changes.
 
 - Deleting a Task:
 
-Click the "Delete" button next to the task to remove it from the list.
+  Click the "Delete" button next to the task to remove it from the list.
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
 
 # Contact
 For any questions or feedback, please contact milidharansde@gmail.com.
